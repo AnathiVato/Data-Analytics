@@ -44,6 +44,32 @@ Data Governance programs: ensures that the organization has high-data quality & 
 # Analytics tool
 Excel or Google sheets
 
+ # CHAPTER 2 !!!!
+ # Tools for representing tabular data
+*Microsoft Excel
+*Google Sheets
+*Apple numbers
+Connection  between tables-- Relationship
+Database softwares: Oracle, Microsoft SQL Server, MySQL & Postgre SQL.
+
+Structured data- organized into row & column
+# Data Types:
+-Character,text,Alphanumeric,clob &longtext
+ASCII- includes upper & lowercase alphabets &numbers
+Structured Data
+Tabular data is structured data, with values stored in a consistent, defined manner, organized into columns and rows.
+Unstructured Data
+Unstructured data is qualitative, describing the characteristics of an event or an object.
+E.G Binary,Audio,image,video &large text.
+
+Semi-Structured Data
+Semi-structured data is data that has structure and that is not tabular.
+
+# Categories of data
+Quantitive
+
+
+
 
  
 
