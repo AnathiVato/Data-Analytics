@@ -1,4 +1,49 @@
 # Data-Analytics
+   # CHAPER 1 !!!
 
 # Computing with confidence user
--
+-Knows to cope when things go wrong
+-Knows how to learn new computing skills independently.
+  # Data Analytics skills
+-Machine learning 
+-data visualization
+
+# Data Analytic roles:
+*Data collection & preparation
+* Data Analysis
+* Data visualization &storytelling
+* Decision support
+* Collaboration & communication
+* Continuous learning & adaptation
+  # Data Analytic Responsibilities :
+-Manages the delivery of user satisfaction surveys    & report on results using data visualization software
+-Work with business line owners to develop requirements,define success metrics,manage & execute analytical pojects and evaluate results.
+
+-Design,Build,Test & maintain backend code.
+ # Steps When approaching a new project
+*Define the questions-defining a problem
+*Collect data-primary/internal
+*Clean the data-prepare& fix the missing data
+*Analyze data
+*Interprete & share the solution /results
+ # PROGRAMMING LANGUAGES
+ -SQL, Oracle & Python
+ For data analytics to prosper there has to be: Data, Storage & Computing
+  # Processes for data analaytics:
+-Data acquistion
+-Cleaning & manipulation
+-Analysis,Visualization,Reporting & Communication
+ # Data Analytic Techniques
+Descriptive,Predictive & Prescriptive
+
+
+Artificial intelligence (AI) includes any type of technique where you are attempting to get a computer system to imitate human behavior.
+Machine learning (ML) is a subset of AI techniques.
+Deep learning is a further subdivision of machine learning that uses quite complex techniques, known as neural networks, to discover knowledge in a particular way. Used for image,video & sound.
+Data Governance programs: ensures that the organization has high-data quality & able to effectively control the data
+# Analytics tool
+Excel or Google sheets
+
+
+ 
+
