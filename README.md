@@ -61,12 +61,21 @@ Tabular data is structured data, with values stored in a consistent, defined man
 Unstructured Data
 Unstructured data is qualitative, describing the characteristics of an event or an object.
 E.G Binary,Audio,image,video &large text.
+Key-unique identifier
+Key-Filename
+Value- Content of a file
 
 Semi-Structured Data
 Semi-structured data is data that has structure and that is not tabular.
 
 # Categories of data
-Quantitive
+-Quantitive vs Qualitive
+-Discrete vs Continous
+-Categorical & Dimensional
+
+ # Machine data source:
+ -IOT devices,smartphones,tablets, PCs & servers
+ 
 
 
 
