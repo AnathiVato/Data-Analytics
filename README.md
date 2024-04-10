@@ -75,6 +75,11 @@ Semi-structured data is data that has structure and that is not tabular.
 
  # Machine data source:
  -IOT devices,smartphones,tablets, PCs & servers
+ # Unstructured data
+ includes the KEY & VALUE
+
+   # CHAPTER 3!!! Databases & Data Acquisition
+   
  
 
 
