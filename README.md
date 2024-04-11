@@ -79,6 +79,47 @@ Semi-structured data is data that has structure and that is not tabular.
  includes the KEY & VALUE
 
    # CHAPTER 3!!! Databases & Data Acquisition
+   2 Categories:
+   Relational& non-Relational database
+ # ERD Cardinalities:
+ *One
+ *Many
+ *One &one only
+ *Zero or one
+ *One or many
+ # Benefits of Relational DB
+ -Consistency,Stored procedures,Security& Locking
+ ERD- Visual artifact of data modelling process.
+ Unary relationship- When an entity has a connection with itself.
+ Ternary relationship- connects 3 entities. 
+
+ # Non-relational DB
+ -key value,column store,gragh & dicument store.
+ # Benefits of Non-Relational DB
+ -Flexibility,Scalability & cost effictiveness.
+ # Data base uses cases
+ # Categories of Data Processing
+ *OLTP- transfer encounters for everyday
+ *OLAP- ability of organizations to analyze data using relational DB.
+
+ # Normalization: process of minimizing the duplicates
+ # 1NF -first Normal Form: 
+ When a row in a table is unique & column contains unique values.
+ # SCHEMA: 
+ defines how data is organized within a relational DB
+ 
+ # Data Mart:
+ Subset of data warehouse
+ # Data Lake:
+ Capture any type of data. It store raw data & more complex than data warehouse or data mart.
+  # Inner join statements
+  Meaning there should be a table
+  OLAP: denormalized
+  OLTP:normalized
+  # Dimensionality
+  Refers to the number of attributes a table has. Higher attributes- higher dimensionality.
+ 
+ 
    
  
 
