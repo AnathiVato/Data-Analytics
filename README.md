@@ -118,6 +118,34 @@ Semi-structured data is data that has structure and that is not tabular.
   OLTP:normalized
   # Dimensionality
   Refers to the number of attributes a table has. Higher attributes- higher dimensionality.
+
+  SQL Keywords:
+  CREATE
+  READ
+  UPDATE
+  DELETE
+  STDDEV
+   # Chapte4 !!!!!
+Missing values: issue that impacts data quality( null values)
+Invalid:
+-Values outside the valid range of a given attribute
+Nonparametric data:
+-Data collected from categorical variables
+Data Outliers:
+-Value that differs significantly from other pbservations in a dataset.
+# Techniques for data analytics
+*Recording data:
+-Technique to map original values for a variable into a new value.
+*Derived variable
+*Data merge
+*Data blending
+*Concatenation
+*Data append
+*Imputation: replacing missing values
+
+
+
+
  
  
    
