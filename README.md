@@ -143,6 +143,30 @@ Data Outliers:
 *Data append
 *Imputation: replacing missing values
 
+# Approaches used for imputing values:
+-Remove missing data
+-replace with zero
+-Replace with overall average
+-Replace with closest frequent mode
+-Closest value average
+
+Reduction: process of shrinking an extensive dataset.
+*Dimensionality- removes attributes from a datset.
+*Numerosity- reduces the overall volume of data.
+# Data aggregation:
+Summary of raw data for analysis
+
+Transposition:
+-turning row into column/ column into rows
+Normalization:
+-converts data from different scales to the same scale
+min-max normalization- approach to normalizing data.
+
+# SQL FUNCTIONS:
+-Count, Min, Max, AVG, Sum, STDDEV
+
+
+
 
 
 
