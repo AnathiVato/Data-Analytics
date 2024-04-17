@@ -1,5 +1,5 @@
 # Data-Analytics
-   # CHAPER 1 !!!
+   # CHAPTER 1 !!!
 
 # Computing with confidence user
 -Knows to cope when things go wrong
