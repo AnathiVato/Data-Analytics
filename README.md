@@ -202,7 +202,7 @@ Automated validation
   *Categorical & ordinal: variables are in order
   *Categorical & Nominal: variables are not in order.
 
-   Descriptive Statistics:
+   # Descriptive Statistics:
    -Branch of statistics that summarizes & describe data.
    Counts- counts the total.
    Percentage- frequency measure that identifies the proportion of a given value for a variable with respect to the total number of rows in a dataset.
@@ -210,6 +210,66 @@ Automated validation
    # Range= max-min (difference between maximum & minimum)
    Distribution- Function that illustrates probable values for a variable & its frequency.
    IQR- Combination of 2nd & 3rd quantile range.
+
+   # Normal distribution 
+   -type of continous probability distribution
+   CLT Central Limit theorem-theorem for statistic analysis.
+   # Skewed distribution
+   -asymmetric shape with a single peak & long tail on one side have different sides.
+   # Bimodal distribution
+   -has two distinct nodes. Multimodal has multiple distinct nodes.
+
+   # Variance
+   -Expected value of the squared deviation from the mean.It calculates how far the values are from the mean value.
+   #  Standard deviation 
+     -statistic that measures dispersion in terms of how far values of a variable are from its mean.
+     Standard Normal Distribution/Z-distribution:
+     Special Normal Distribution with a mean of 0 & STDDEV of 1. T-distribution also has a mean of 0.
+     
+   # Inferential Statistics:
+   -Branch od statistics that uses sample data to draw conclusions.
+   -The standard Error- tool to measure the standard deviatio of the distribution of mean of a given sample size.
+   # standard Error: population standard deviation/ square root of the sample size
+   # Hypothesis statement: only one statement can be true
+   Two components for Hypothesis:
+   *Null
+   -Presumes that there is no effect on the test
+   *Alternative
+   -Presumes that there is an effect on the test
+   # Data analysis
+   Exploratory data analysis: uses descriptive stats to summarize the mean.
+   # Steps for conduction EDA
+   -Check data structure
+   -Check data representation
+   -Check if data is missing 
+   -Identify outliers
+   -Summarize stats
+   -Check assupmtions
+   Degrees of freedom is defined as 1 less than the total 
+   E.G 28-1 =27
+   left skewed : median is higher than the mean
+   right skewed: mean is greater than median
+
+   # CHAPTER 6 !!!!!--Data Analytic tools
+   Speadsheet -allow users to create documents that organize any type of data into rows & columns
+   Programming Languages:
+   -R
+   -Python
+   -SQL
+   SQL sublanguages: DDL & DML
+   DDL-- Data Definition Language: defines the structure of DB itself
+   DML-- Data Manipulation Language: workswith data inside of a DB. It add, remove & change the data.
+   
+   DDL Commands:
+   -CREATE ,ALTER ,DROP.
+   DML commands:
+   -SELECT, INSERT, UPDATE, DELETE
+   # Azure Data Studio
+   -tool to write a DB queries in SQL, send them to the DB & view the results.
+   
+   
+   
+   
   
 
   
