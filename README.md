@@ -165,6 +165,56 @@ min-max normalization- approach to normalizing data.
 
 # SQL FUNCTIONS:
 -Count, Min, Max, AVG, Sum, STDDEV
+Automated validation
+-Validating data automatically to avoid human errors. It does validation checks.
+# Data Quality dimensions
+-measures the attributes of data which can be individualyy assessed,interpreted & improved.
+
+  # CHAPTER 5 !!!!!--Data Analysis & Statistic
+  # Fundamentals of statistics
+  -Population: represents all the data subjects that you want to analyze.
+  -Variable- unique attribute of data subject.
+   # Unvariate analysis
+   -When exploring the characteristic of a single variable .
+   # Observation
+   -Individual record in a dataset corresponding to a tabular data row.
+   # STATISTICS
+   -It's all about exploring numbers & performing calculations.Coolection & interpetation of data.
+   -Symbols for Statistics- used to convey meaning.
+   # Major concepts of Stats
+   * Descriptive & Inferential
+     Descriptive: getting data &talk about it.
+     Inferential: taking & analyzing data
+
+  # Uses of Statistics
+  -To measure & analyze data.
+  Total number of things called SAMPLE SIZE
+
+  Variable can be: measurable, countable & categorized.
+  # Two types of data in Stats:
+  -Quantitative data : measured in numbers . E.G height , weight etc.
+  Types of Quantitative data:
+  *Discrete: Numbers that can be measured. E.G One can own car or more
+  *Continous: It can take decimal numbers like 24.5
+  
+  -Categorical data: values that are placed in different groups /categories. E.G hair colour( blond,black etc)
+  Types of Categorical data
+  *Categorical & ordinal: variables are in order
+  *Categorical & Nominal: variables are not in order.
+
+   Descriptive Statistics:
+   -Branch of statistics that summarizes & describe data.
+   Counts- counts the total.
+   Percentage- frequency measure that identifies the proportion of a given value for a variable with respect to the total number of rows in a dataset.
+   Frquency- describes how often a specific value for a variable occurs in a dataset.
+   # Range= max-min (difference between maximum & minimum)
+   Distribution- Function that illustrates probable values for a variable & its frequency.
+   IQR- Combination of 2nd & 3rd quantile range.
+  
+
+  
+      
+  
 
 
 
