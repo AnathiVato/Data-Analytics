@@ -266,7 +266,24 @@ Automated validation
    -SELECT, INSERT, UPDATE, DELETE
    # Azure Data Studio
    -tool to write a DB queries in SQL, send them to the DB & view the results.
-   
+   # IBM's SPSS modeler
+   One of the popular tool for building graphicalmachine learning models.
+   # RapidMiner
+   Another graphical machine learning, creating visual designs.
+
+   # Analytical suite
+   -provides powerful capabilities that cross all phases of an analytical process, for cleaning data ,visualize,produce models,make predictions,communicate & report the results.
+   1. IBM Cognos
+      Major components:
+      *Cognos connection: offer access to other elements
+      *Query studio:data querying
+      *Report studio:report design
+      *Analysis studio:modeling & analysis
+      *Event studio:provide real time data
+      *Metric studio:ability to create scorecards
+      *cognos viewer: allow stakeholders to easily interact
+2. Microsoft power BI
+  Major components: 
    
    
    
