@@ -283,7 +283,39 @@ Automated validation
       *Metric studio:ability to create scorecards
       *cognos viewer: allow stakeholders to easily interact
 2. Microsoft power BI
-  Major components: 
+  Major components:
+*Power BI desktop- windows app for data analyst, interact with data & publish reports.
+*Power BI- Hosts Power BI in the cloud for customers.
+*Mobile apps- for power BI of iOS, android & windows.
+*Power BI Report builder-where reports are generated.
+*Power BI report server-organizations can host their own Power BI environment.
+3. MicroStrategy
+   -Machine learning &reports can be applied too & building dashboards.
+4.Domo
+-Data can be analyzed.
+5.Datorama
+-Focues on a specific components of an organization business like sales &marketing( only)
+6. AWS QuickSight
+   -has poerful storage,data warehousing,machine learning & AI capabilities offered by Amazon cloud.
+7. Tableau
+   -for market to identify trends in the data, data visualization.
+8. Qlik
+   -It has Qlik view(cost effective) & Qlik Sense(advanced) .
+9. business Objects
+    -For reports & analytical environment for organisations
+R language- focuses on solving analytical problems.
+SPSS-professional statistical analysis package.
+
+# CHAPTER 7 !!!!!
+Data visualization with report & dashboard
+Reports & Dashboard-summarizes data for end users.
+Reports- statistic electronic or physical documents that reflects info at a given time.
+Dashboard-Interactive visualization that encourages people to explore data dynamically.
+
+# APPROACHES :
+-Pull-To publish a report to a known location like webpage.
+-Push- When report is automatically sent to the appropriate people as it becomes available.
+-Blended-informing people that the report is available
    
    
    
