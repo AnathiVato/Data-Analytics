@@ -316,6 +316,40 @@ Dashboard-Interactive visualization that encourages people to explore data dynam
 -Pull-To publish a report to a known location like webpage.
 -Push- When report is automatically sent to the appropriate people as it becomes available.
 -Blended-informing people that the report is available
+# Design principles( 5 Cs) of creating visualizations:
+-Control-focus the attention of the audience.
+-Correctness-make sure info is accurate.
+-Clarity--make sure it's easy to interpret.
+-Consistency-using same design & documentation.
+-Concentration-using visuals to focus the audience's attention.
+
+Design elements( color schemes, page layout, font size ,style & charts)
+
+Fonts
+-Serif font style- include curls
+-Sans serif- doesn't include curls
+Style guide
+-Set of standards that drives consistency in communication
+Version number:
+-numeric value that refers to a specific version of a report
+Static data:
+-some regular interval
+Continous data
+-For daily duties
+Wireframe:
+-Blue print for an application
+# Visualization Types
+-Line-Relationship between 2 variables
+-Bar-Represents categorical data
+-Stacked bar- uses a dot for each observation between 2 numeric variables
+-Bubble-Scatterplot where size of each dot depends on a third numeric variables
+-Histogram- shows the frequency distribution for numeric data
+-Maps-To convey the location
+-Infographic-represents information correctly
+-Word cloud-uses shape, font size & color to signify relative importance of words
+-Scatter-relationship between 2 numeric values
+
+
    
    
    
