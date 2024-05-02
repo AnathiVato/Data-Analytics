@@ -349,6 +349,33 @@ Wireframe:
 -Word cloud-uses shape, font size & color to signify relative importance of words
 -Scatter-relationship between 2 numeric values
 
+# CHAPTER 8 !!!!: Data Governance
+
+Data Stewardship- Act of developing the policies & procedures for looking after an organization's data quality, security, privacy & regulatory.
+Data steward- person responsible for data stewardship, responsible for leading an organization's data governance activities.
+Data Owner- senior business leader with overall responsiblity for a specific data.
+Data domain- contains data about a particular operational division within an organization.
+Subject area works on behalf of Data owner to handle daily tasks.
+Data custodian-role given to someone who implements technical controls that execute data governance policies. IT employees who congifure applications, dashboard & databases.
+Data classification matrix-Categories, descriptions & disclosure implications for data.
+DUA( Data Use Agreement)- document for transferring private data between organizations.
+IRB( Institutional Review Board) body that formally reviews & approves any sharin of data.
+Encryption- process of encoding data with a key so that only authorized parties can read it. Includes letters, numbers & symbols.
+Data in transit- data moving between one location to another
+HTTP- used to transmit data over the internet
+TLS(Transport Layer Security)- used to ensure data security
+# Two protocols
+# SEP ( secure copy protocol)& SFTP ( secure file transfer protocol)
+-To copy files between transactional & analytical servers.
+Data classification- process of analyzing data & organizing  it itno risk-based categories.
+PII- Personally identificable information - data that uniquely identify a person .
+
+Criminal law- discourage people from action acting in a way that negatively impacts society.
+Civil law- to resolve arguments between individuals,organization & government agencies.
+Administrative law- enable the effective operation of government.
+
+
+
 
    
    
